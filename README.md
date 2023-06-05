@@ -1,5 +1,7 @@
 # tim
-custom personal assistant with two side (self and others)
+custom personal assistant with two side 
+- talk to you 
+- talk to others for you
 
 Features:
 - scalable to n-users
